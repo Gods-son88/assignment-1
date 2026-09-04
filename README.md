@@ -28,3 +28,4 @@ Run network check:
 \`\``bash
 ./network-check.sh 8.8.8.8 53
 \`\``
+All scripts verified and tested locally.
